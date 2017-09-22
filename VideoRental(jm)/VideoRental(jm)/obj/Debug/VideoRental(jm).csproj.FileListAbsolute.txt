@@ -1,0 +1,18 @@
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\bin\Debug\VideoRental(jm).exe.config
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\bin\Debug\VideoRental(jm).exe
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\bin\Debug\VideoRental(jm).pdb
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental(jm).csprojResolveAssemblyReference.cache
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental_jm_.Form1.resources
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental_jm_.Form2.resources
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental_jm_.Properties.Resources.resources
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental(jm).csproj.GenerateResource.Cache
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental(jm).exe
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental(jm).pdb
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental_jm_.Form3.resources
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental_jm_.Form4.resources
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental_jm_.Form5.resources
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\bin\Debug\MySql.Data.dll
+c:\users\aries\documents\visual studio 2012\Projects\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental_jm_.Form6.resources
+C:\Users\aries\Desktop\New ADBMS (Video Rental)\VideoRental(jm)\VideoRental(jm)\bin\Debug\VideoRental(jm).exe.config
+C:\Users\aries\Desktop\New ADBMS (Video Rental)\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental(jm).exe
+C:\Users\aries\Desktop\New ADBMS (Video Rental)\VideoRental(jm)\VideoRental(jm)\obj\Debug\VideoRental(jm).pdb
